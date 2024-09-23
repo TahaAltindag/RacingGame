@@ -27,6 +27,8 @@ This Racing Demo showcases a simple yet engaging racing game that demonstrates r
 
 The demo presents a straightforward yet immersive racing game where the player controls a vehicle that accelerates and decelerates along a straight track. The focus is on realistic acceleration, gear shifting, and engine RPM changes, providing an authentic driving experience. Additional features such as procedural map generation and performance optimizations enhance the overall gameplay.
 
+**Unity Version: 2022.3.30f
+
 **Reference Video:** [Vehicle Mechanics Inspiration](https://youtu.be/U-1e7gocYi4?t=117)
 
 ## Gameplay
