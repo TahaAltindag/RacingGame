@@ -1,7 +1,7 @@
 # Racing Demo
 
 This Racing Demo showcases a simple yet engaging racing game that demonstrates realistic vehicle mechanics, sound design, and optimized performance techniques.
-
+![Gameplay](Recordings/GamePlay.gif)
 ## Table of Contents
 
 - [Overview](#overview)
@@ -30,7 +30,7 @@ The demo presents a straightforward yet immersive racing game where the player c
 **Reference Video:** [Vehicle Mechanics Inspiration](https://youtu.be/U-1e7gocYi4?t=117)
 
 ## Gameplay
-
+![Gameplay](Recordings/PreGame.png)
 ### Controls
 
 - **W Key**: Press and hold to accelerate the vehicle.
@@ -81,6 +81,8 @@ The demo presents a straightforward yet immersive racing game where the player c
 
 ### Procedural Generation
 
+![Gameplay](Recordings/ProceduralGenerating.gif)
+
 - **Map Generation**: The track is procedurally generated, extending ahead as the vehicle progresses.
 - **Road and Building Spawning**: Roads and buildings are generated using object pooling to optimize performance.
 - **Traffic Simulation**: NPC vehicles are spawned to simulate traffic, adding realism to the environment.
@@ -114,6 +116,8 @@ The demo presents a straightforward yet immersive racing game where the player c
 - **Improved Rendering Performance**: Allows for more complex scenes without compromising frame rates.
 
 ## How to Play
+
+![Gameplay](Recordings/OnGame.png)
 
 1. **Start the Game**: Launch the game to begin (If you want to play the game on the editor go to Assets/_Project/Scenes/DemoScene).
 2. **Wait for the Countdown**: A 5-second countdown will appear on the screen.
